@@ -34,7 +34,6 @@ int main(void)
 		bef1 = (bef / l);
 		bef2 = (bef % l);
 		aft1 = (aft / l);
-#!/bin/bash
 		aft2 = (aft % l);
 
 
